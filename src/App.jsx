@@ -21,7 +21,7 @@ function App() {
         <ul className="headerRight d-flex">
           <li className="mr-30">
             <img width={20} height={15} src={cart} alt="cart" />
-            <span>1205 руб.</span>
+            <span>1205 сом.</span>
           </li>
           <li>
             <img width={20} height={15} src={user} alt="user" />
@@ -38,7 +38,7 @@ function App() {
             <div className="d-flex justify-between align-center">
               <div className="d-flex flex-column">
                 <span>Цена</span>
-                <b>12 999 руб.</b>
+                <b>12 999 сом.</b>
               </div>
               <button className="button">
                 <img width={11} height={11} src={plus} alt="plus" />
@@ -51,7 +51,7 @@ function App() {
             <div className="d-flex justify-between align-center">
               <div className="d-flex flex-column">
                 <span>Цена</span>
-                <b>12 999 руб.</b>
+                <b>12 999 сом.</b>
               </div>
               <button className="button">
                 <img width={11} height={11} src={plus} alt="plus" />
@@ -64,7 +64,7 @@ function App() {
             <div className="d-flex justify-between align-center">
               <div className="d-flex flex-column">
                 <span>Цена</span>
-                <b>12 999 руб.</b>
+                <b>12 999 сом.</b>
               </div>
               <button className="button">
                 <img width={11} height={11} src={plus} alt="plus" />
@@ -77,7 +77,7 @@ function App() {
             <div className="d-flex justify-between align-center">
               <div className="d-flex flex-column">
                 <span>Цена</span>
-                <b>12 999 руб.</b>
+                <b>12 999 сом.</b>
               </div>
               <button className="button">
                 <img width={11} height={11} src={plus} alt="plus" />
